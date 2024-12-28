@@ -1,0 +1,2 @@
+a79df14 - MariamRusadze - Writing programm: write script for a terminal calculator
+68d78c9 - MariamRusadze - Initial commit: creating entry point of the program
